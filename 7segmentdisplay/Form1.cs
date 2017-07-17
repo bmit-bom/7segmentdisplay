@@ -20,13 +20,13 @@ namespace _7segmentdisplay
         private void button1_Click(object sender, EventArgs e)
         {
             // 1 = ----CB-
-            segA.BackColor = Color.Silver;
+            segA.BackColor = Color.Maroon;
             segB.BackColor = Color.Red;
             segC.BackColor = Color.Red;
-            segD.BackColor = Color.Silver;
-            segE.BackColor = Color.Silver;
-            segF.BackColor = Color.Silver;
-            segG.BackColor = Color.Silver;
+            segD.BackColor = Color.Maroon;
+            segE.BackColor = Color.Maroon;
+            segF.BackColor = Color.Maroon;
+            segG.BackColor = Color.Maroon;
             labelBinarySegments.Text = "0 0 0-0 1 1 0";
         }
 
@@ -35,10 +35,10 @@ namespace _7segmentdisplay
             // 2 = G-ED-BA
             segA.BackColor = Color.Red;
             segB.BackColor = Color.Red;
-            segC.BackColor = Color.Silver;
+            segC.BackColor = Color.Maroon;
             segD.BackColor = Color.Red;
             segE.BackColor = Color.Red;
-            segF.BackColor = Color.Silver;
+            segF.BackColor = Color.Maroon;
             segG.BackColor = Color.Red;
             labelBinarySegments.Text = "1 0 1-1 0 1 1";
         }
@@ -50,8 +50,8 @@ namespace _7segmentdisplay
             segB.BackColor = Color.Red;
             segC.BackColor = Color.Red;
             segD.BackColor = Color.Red;
-            segE.BackColor = Color.Silver;
-            segF.BackColor = Color.Silver;
+            segE.BackColor = Color.Maroon;
+            segF.BackColor = Color.Maroon;
             segG.BackColor = Color.Red;
             labelBinarySegments.Text = "1 0 0-1 1 1 1";
         }
@@ -59,11 +59,11 @@ namespace _7segmentdisplay
         private void button4_Click(object sender, EventArgs e)
         {
             // 4 = GF--CB-
-            segA.BackColor = Color.Silver;
+            segA.BackColor = Color.Maroon;
             segB.BackColor = Color.Red;
             segC.BackColor = Color.Red;
-            segD.BackColor = Color.Silver;
-            segE.BackColor = Color.Silver;
+            segD.BackColor = Color.Maroon;
+            segE.BackColor = Color.Maroon;
             segF.BackColor = Color.Red;
             segG.BackColor = Color.Red;
             labelBinarySegments.Text = "1 1 0-0 1 1 0";
@@ -73,10 +73,10 @@ namespace _7segmentdisplay
         {
             // 5 = GF-DC-A
             segA.BackColor = Color.Red;
-            segB.BackColor = Color.Silver;
+            segB.BackColor = Color.Maroon;
             segC.BackColor = Color.Red;
             segD.BackColor = Color.Red;
-            segE.BackColor = Color.Silver;
+            segE.BackColor = Color.Maroon;
             segF.BackColor = Color.Red;
             segG.BackColor = Color.Red;
             labelBinarySegments.Text = "1 1 0-1 1 0 1";
@@ -86,7 +86,7 @@ namespace _7segmentdisplay
         {
             // 6 = GFEDC-A
             segA.BackColor = Color.Red;
-            segB.BackColor = Color.Silver;
+            segB.BackColor = Color.Maroon;
             segC.BackColor = Color.Red;
             segD.BackColor = Color.Red;
             segE.BackColor = Color.Red;
@@ -101,10 +101,10 @@ namespace _7segmentdisplay
             segA.BackColor = Color.Red;
             segB.BackColor = Color.Red;
             segC.BackColor = Color.Red;
-            segD.BackColor = Color.Silver;
-            segE.BackColor = Color.Silver;
-            segF.BackColor = Color.Silver;
-            segG.BackColor = Color.Silver;
+            segD.BackColor = Color.Maroon;
+            segE.BackColor = Color.Maroon;
+            segF.BackColor = Color.Maroon;
+            segG.BackColor = Color.Maroon;
             labelBinarySegments.Text = "0 0 0-0 1 1 1";
         }
 
@@ -128,7 +128,7 @@ namespace _7segmentdisplay
             segB.BackColor = Color.Red;
             segC.BackColor = Color.Red;
             segD.BackColor = Color.Red;
-            segE.BackColor = Color.Silver;
+            segE.BackColor = Color.Maroon;
             segF.BackColor = Color.Red;
             segG.BackColor = Color.Red;
             labelBinarySegments.Text = "1 1 0-1 1 1 1";
@@ -143,21 +143,21 @@ namespace _7segmentdisplay
             segD.BackColor = Color.Red;
             segE.BackColor = Color.Red;
             segF.BackColor = Color.Red;
-            segG.BackColor = Color.Silver;
+            segG.BackColor = Color.Maroon;
             labelBinarySegments.Text = "0 1 1-1 1 1 1";
         }
 
         private void buttonDotOn_Click(object sender, EventArgs e)
         {
             // switch dot state
-            if (segDot.BackColor == Color.Silver)
+            if (segDot.BackColor == Color.Maroon)
             {
                 segDot.BackColor = Color.Red;
                 labelBinaryDot.Text = "1";
             }
             else
             {
-                segDot.BackColor = Color.Silver;
+                segDot.BackColor = Color.Maroon;
                 labelBinaryDot.Text = "0";
             }
         }
@@ -166,14 +166,14 @@ namespace _7segmentdisplay
         private void buttonAllOff_Click(object sender, EventArgs e)
         {
             // All Off = -------
-            segA.BackColor = Color.Silver;
-            segB.BackColor = Color.Silver;
-            segC.BackColor = Color.Silver;
-            segD.BackColor = Color.Silver;
-            segE.BackColor = Color.Silver;
-            segF.BackColor = Color.Silver;
-            segG.BackColor = Color.Silver;
-            segDot.BackColor = Color.Silver;
+            segA.BackColor = Color.Maroon;
+            segB.BackColor = Color.Maroon;
+            segC.BackColor = Color.Maroon;
+            segD.BackColor = Color.Maroon;
+            segE.BackColor = Color.Maroon;
+            segF.BackColor = Color.Maroon;
+            segG.BackColor = Color.Maroon;
+            segDot.BackColor = Color.Maroon;
             labelBinarySegments.Text = "0 0 0-0 0 0 0";
             labelBinaryDot.Text = "0";
         }

@@ -64,7 +64,7 @@
             // 
             // segA
             // 
-            this.segA.BackColor = System.Drawing.Color.Silver;
+            this.segA.BackColor = System.Drawing.Color.Maroon;
             this.segA.Location = new System.Drawing.Point(37, 12);
             this.segA.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segA.Name = "segA";
@@ -73,7 +73,7 @@
             // 
             // segB
             // 
-            this.segB.BackColor = System.Drawing.Color.Silver;
+            this.segB.BackColor = System.Drawing.Color.Maroon;
             this.segB.Location = new System.Drawing.Point(137, 37);
             this.segB.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segB.Name = "segB";
@@ -82,7 +82,7 @@
             // 
             // segG
             // 
-            this.segG.BackColor = System.Drawing.Color.Silver;
+            this.segG.BackColor = System.Drawing.Color.Maroon;
             this.segG.Location = new System.Drawing.Point(37, 137);
             this.segG.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segG.Name = "segG";
@@ -91,7 +91,7 @@
             // 
             // segC
             // 
-            this.segC.BackColor = System.Drawing.Color.Silver;
+            this.segC.BackColor = System.Drawing.Color.Maroon;
             this.segC.Location = new System.Drawing.Point(137, 162);
             this.segC.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segC.Name = "segC";
@@ -100,7 +100,7 @@
             // 
             // segD
             // 
-            this.segD.BackColor = System.Drawing.Color.Silver;
+            this.segD.BackColor = System.Drawing.Color.Maroon;
             this.segD.Location = new System.Drawing.Point(37, 262);
             this.segD.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segD.Name = "segD";
@@ -109,7 +109,7 @@
             // 
             // segE
             // 
-            this.segE.BackColor = System.Drawing.Color.Silver;
+            this.segE.BackColor = System.Drawing.Color.Maroon;
             this.segE.Location = new System.Drawing.Point(12, 162);
             this.segE.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segE.Name = "segE";
@@ -118,7 +118,7 @@
             // 
             // segF
             // 
-            this.segF.BackColor = System.Drawing.Color.Silver;
+            this.segF.BackColor = System.Drawing.Color.Maroon;
             this.segF.Location = new System.Drawing.Point(12, 37);
             this.segF.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segF.Name = "segF";
@@ -259,7 +259,7 @@
             // 
             // segDot
             // 
-            this.segDot.BackColor = System.Drawing.Color.Silver;
+            this.segDot.BackColor = System.Drawing.Color.Maroon;
             this.segDot.Location = new System.Drawing.Point(162, 262);
             this.segDot.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segDot.Name = "segDot";
