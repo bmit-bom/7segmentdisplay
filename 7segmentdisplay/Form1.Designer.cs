@@ -66,6 +66,7 @@
             // 
             this.segA.BackColor = System.Drawing.Color.Silver;
             this.segA.Location = new System.Drawing.Point(37, 12);
+            this.segA.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segA.Name = "segA";
             this.segA.Size = new System.Drawing.Size(100, 25);
             this.segA.TabIndex = 0;
@@ -74,6 +75,7 @@
             // 
             this.segB.BackColor = System.Drawing.Color.Silver;
             this.segB.Location = new System.Drawing.Point(137, 37);
+            this.segB.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segB.Name = "segB";
             this.segB.Size = new System.Drawing.Size(25, 100);
             this.segB.TabIndex = 1;
@@ -82,6 +84,7 @@
             // 
             this.segG.BackColor = System.Drawing.Color.Silver;
             this.segG.Location = new System.Drawing.Point(37, 137);
+            this.segG.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segG.Name = "segG";
             this.segG.Size = new System.Drawing.Size(100, 25);
             this.segG.TabIndex = 2;
@@ -90,6 +93,7 @@
             // 
             this.segC.BackColor = System.Drawing.Color.Silver;
             this.segC.Location = new System.Drawing.Point(137, 162);
+            this.segC.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segC.Name = "segC";
             this.segC.Size = new System.Drawing.Size(25, 100);
             this.segC.TabIndex = 3;
@@ -98,6 +102,7 @@
             // 
             this.segD.BackColor = System.Drawing.Color.Silver;
             this.segD.Location = new System.Drawing.Point(37, 262);
+            this.segD.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segD.Name = "segD";
             this.segD.Size = new System.Drawing.Size(100, 25);
             this.segD.TabIndex = 4;
@@ -106,6 +111,7 @@
             // 
             this.segE.BackColor = System.Drawing.Color.Silver;
             this.segE.Location = new System.Drawing.Point(12, 162);
+            this.segE.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segE.Name = "segE";
             this.segE.Size = new System.Drawing.Size(25, 100);
             this.segE.TabIndex = 5;
@@ -114,13 +120,16 @@
             // 
             this.segF.BackColor = System.Drawing.Color.Silver;
             this.segF.Location = new System.Drawing.Point(12, 37);
+            this.segF.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segF.Name = "segF";
             this.segF.Size = new System.Drawing.Size(25, 100);
             this.segF.TabIndex = 6;
             // 
             // button1
             // 
+            this.button1.Font = new System.Drawing.Font("Lucida Console", 18F);
             this.button1.Location = new System.Drawing.Point(248, 44);
+            this.button1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(50, 50);
             this.button1.TabIndex = 7;
@@ -130,7 +139,9 @@
             // 
             // button2
             // 
+            this.button2.Font = new System.Drawing.Font("Lucida Console", 18F);
             this.button2.Location = new System.Drawing.Point(304, 44);
+            this.button2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(50, 50);
             this.button2.TabIndex = 8;
@@ -140,7 +151,9 @@
             // 
             // button3
             // 
+            this.button3.Font = new System.Drawing.Font("Lucida Console", 18F);
             this.button3.Location = new System.Drawing.Point(360, 44);
+            this.button3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(50, 50);
             this.button3.TabIndex = 9;
@@ -150,7 +163,9 @@
             // 
             // button4
             // 
+            this.button4.Font = new System.Drawing.Font("Lucida Console", 18F);
             this.button4.Location = new System.Drawing.Point(248, 100);
+            this.button4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(50, 50);
             this.button4.TabIndex = 10;
@@ -160,7 +175,9 @@
             // 
             // button5
             // 
+            this.button5.Font = new System.Drawing.Font("Lucida Console", 18F);
             this.button5.Location = new System.Drawing.Point(304, 100);
+            this.button5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(50, 50);
             this.button5.TabIndex = 11;
@@ -170,7 +187,9 @@
             // 
             // button6
             // 
+            this.button6.Font = new System.Drawing.Font("Lucida Console", 18F);
             this.button6.Location = new System.Drawing.Point(360, 100);
+            this.button6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(50, 50);
             this.button6.TabIndex = 12;
@@ -180,7 +199,9 @@
             // 
             // button7
             // 
+            this.button7.Font = new System.Drawing.Font("Lucida Console", 18F);
             this.button7.Location = new System.Drawing.Point(248, 156);
+            this.button7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(50, 50);
             this.button7.TabIndex = 13;
@@ -190,7 +211,9 @@
             // 
             // button8
             // 
+            this.button8.Font = new System.Drawing.Font("Lucida Console", 18F);
             this.button8.Location = new System.Drawing.Point(304, 156);
+            this.button8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(50, 50);
             this.button8.TabIndex = 14;
@@ -200,7 +223,9 @@
             // 
             // button9
             // 
+            this.button9.Font = new System.Drawing.Font("Lucida Console", 18F);
             this.button9.Location = new System.Drawing.Point(360, 156);
+            this.button9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(50, 50);
             this.button9.TabIndex = 15;
@@ -210,7 +235,9 @@
             // 
             // button0
             // 
+            this.button0.Font = new System.Drawing.Font("Lucida Console", 18F);
             this.button0.Location = new System.Drawing.Point(304, 212);
+            this.button0.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button0.Name = "button0";
             this.button0.Size = new System.Drawing.Size(50, 50);
             this.button0.TabIndex = 16;
@@ -220,7 +247,9 @@
             // 
             // buttonAllOff
             // 
+            this.buttonAllOff.Font = new System.Drawing.Font("Lucida Console", 12.25F);
             this.buttonAllOff.Location = new System.Drawing.Point(360, 212);
+            this.buttonAllOff.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.buttonAllOff.Name = "buttonAllOff";
             this.buttonAllOff.Size = new System.Drawing.Size(50, 50);
             this.buttonAllOff.TabIndex = 17;
@@ -232,17 +261,20 @@
             // 
             this.segDot.BackColor = System.Drawing.Color.Silver;
             this.segDot.Location = new System.Drawing.Point(162, 262);
+            this.segDot.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.segDot.Name = "segDot";
             this.segDot.Size = new System.Drawing.Size(25, 25);
             this.segDot.TabIndex = 18;
             // 
             // buttonDotOn
             // 
+            this.buttonDotOn.Font = new System.Drawing.Font("Lucida Console", 7.25F);
             this.buttonDotOn.Location = new System.Drawing.Point(248, 212);
+            this.buttonDotOn.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.buttonDotOn.Name = "buttonDotOn";
             this.buttonDotOn.Size = new System.Drawing.Size(50, 50);
             this.buttonDotOn.TabIndex = 19;
-            this.buttonDotOn.Text = "Dot On";
+            this.buttonDotOn.Text = "Dot On/Off";
             this.buttonDotOn.UseVisualStyleBackColor = true;
             this.buttonDotOn.Click += new System.EventHandler(this.buttonDotOn_Click);
             // 
@@ -261,80 +293,88 @@
             // labelSegA
             // 
             this.labelSegA.AutoSize = true;
+            this.labelSegA.Font = new System.Drawing.Font("Lucida Console", 8.25F);
             this.labelSegA.ForeColor = System.Drawing.Color.Silver;
             this.labelSegA.Location = new System.Drawing.Point(79, 40);
             this.labelSegA.Name = "labelSegA";
-            this.labelSegA.Size = new System.Drawing.Size(14, 13);
+            this.labelSegA.Size = new System.Drawing.Size(12, 11);
             this.labelSegA.TabIndex = 21;
             this.labelSegA.Text = "A";
             // 
             // labelSegB
             // 
             this.labelSegB.AutoSize = true;
+            this.labelSegB.Font = new System.Drawing.Font("Lucida Console", 8.25F);
             this.labelSegB.ForeColor = System.Drawing.Color.Silver;
-            this.labelSegB.Location = new System.Drawing.Point(123, 81);
+            this.labelSegB.Location = new System.Drawing.Point(123, 82);
             this.labelSegB.Name = "labelSegB";
-            this.labelSegB.Size = new System.Drawing.Size(14, 13);
+            this.labelSegB.Size = new System.Drawing.Size(12, 11);
             this.labelSegB.TabIndex = 21;
             this.labelSegB.Text = "B";
             // 
             // labelSegG
             // 
             this.labelSegG.AutoSize = true;
+            this.labelSegG.Font = new System.Drawing.Font("Lucida Console", 8.25F);
             this.labelSegG.ForeColor = System.Drawing.Color.Silver;
             this.labelSegG.Location = new System.Drawing.Point(79, 119);
             this.labelSegG.Name = "labelSegG";
-            this.labelSegG.Size = new System.Drawing.Size(15, 13);
+            this.labelSegG.Size = new System.Drawing.Size(12, 11);
             this.labelSegG.TabIndex = 21;
             this.labelSegG.Text = "G";
             // 
             // labelSegF
             // 
             this.labelSegF.AutoSize = true;
+            this.labelSegF.Font = new System.Drawing.Font("Lucida Console", 8.25F);
             this.labelSegF.ForeColor = System.Drawing.Color.Silver;
-            this.labelSegF.Location = new System.Drawing.Point(43, 81);
+            this.labelSegF.Location = new System.Drawing.Point(43, 82);
             this.labelSegF.Name = "labelSegF";
-            this.labelSegF.Size = new System.Drawing.Size(13, 13);
+            this.labelSegF.Size = new System.Drawing.Size(12, 11);
             this.labelSegF.TabIndex = 21;
             this.labelSegF.Text = "F";
             // 
             // labelSegDot
             // 
             this.labelSegDot.AutoSize = true;
+            this.labelSegDot.Font = new System.Drawing.Font("Lucida Console", 8.25F);
             this.labelSegDot.ForeColor = System.Drawing.Color.Silver;
             this.labelSegDot.Location = new System.Drawing.Point(193, 274);
             this.labelSegDot.Name = "labelSegDot";
-            this.labelSegDot.Size = new System.Drawing.Size(24, 13);
+            this.labelSegDot.Size = new System.Drawing.Size(26, 11);
             this.labelSegDot.TabIndex = 21;
             this.labelSegDot.Text = "Dot";
             // 
             // labelSegC
             // 
             this.labelSegC.AutoSize = true;
+            this.labelSegC.Font = new System.Drawing.Font("Lucida Console", 8.25F);
             this.labelSegC.ForeColor = System.Drawing.Color.Silver;
             this.labelSegC.Location = new System.Drawing.Point(123, 206);
             this.labelSegC.Name = "labelSegC";
-            this.labelSegC.Size = new System.Drawing.Size(14, 13);
+            this.labelSegC.Size = new System.Drawing.Size(12, 11);
             this.labelSegC.TabIndex = 21;
             this.labelSegC.Text = "C";
             // 
             // labelSegD
             // 
             this.labelSegD.AutoSize = true;
+            this.labelSegD.Font = new System.Drawing.Font("Lucida Console", 8.25F);
             this.labelSegD.ForeColor = System.Drawing.Color.Silver;
-            this.labelSegD.Location = new System.Drawing.Point(79, 244);
+            this.labelSegD.Location = new System.Drawing.Point(79, 243);
             this.labelSegD.Name = "labelSegD";
-            this.labelSegD.Size = new System.Drawing.Size(15, 13);
+            this.labelSegD.Size = new System.Drawing.Size(12, 11);
             this.labelSegD.TabIndex = 21;
             this.labelSegD.Text = "D";
             // 
             // labelSegE
             // 
             this.labelSegE.AutoSize = true;
+            this.labelSegE.Font = new System.Drawing.Font("Lucida Console", 8.25F);
             this.labelSegE.ForeColor = System.Drawing.Color.Silver;
             this.labelSegE.Location = new System.Drawing.Point(43, 206);
             this.labelSegE.Name = "labelSegE";
-            this.labelSegE.Size = new System.Drawing.Size(14, 13);
+            this.labelSegE.Size = new System.Drawing.Size(12, 11);
             this.labelSegE.TabIndex = 21;
             this.labelSegE.Text = "E";
             // 
@@ -400,6 +440,7 @@
             this.Controls.Add(this.segB);
             this.Controls.Add(this.segA);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.MaximizeBox = false;
             this.Name = "Title";
             this.Text = "7 Segment Display";
