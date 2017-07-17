@@ -149,17 +149,9 @@ namespace _7segmentdisplay
 
         private void buttonDotOn_Click(object sender, EventArgs e)
         {
-            // switch dot state
-            if (segDot.BackColor == Color.Silver)
-            {
-                segDot.BackColor = Color.Red;
-                labelBinaryDot.Text = "1";
-            }
-            else
-            {
-                segDot.BackColor = Color.Silver;
-                labelBinaryDot.Text = "0";
-            }
+            // Turn on dot
+            segDot.BackColor = Color.Red;
+            labelBinaryDot.Text = "1";
         }
 
         private void buttonAllOff_Click(object sender, EventArgs e)
