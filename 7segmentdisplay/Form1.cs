@@ -162,7 +162,6 @@ namespace _7segmentdisplay
             }
         }
 
-
         private void buttonAllOff_Click(object sender, EventArgs e)
         {
             // All Off = -------
