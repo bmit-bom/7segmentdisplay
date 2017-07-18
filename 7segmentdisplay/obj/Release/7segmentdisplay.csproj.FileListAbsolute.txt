@@ -1,0 +1,8 @@
+D:\GitHub\7segmentdisplay\7segmentdisplay\bin\Release\7segmentdisplay.exe.config
+D:\GitHub\7segmentdisplay\7segmentdisplay\bin\Release\7segmentdisplay.exe
+D:\GitHub\7segmentdisplay\7segmentdisplay\bin\Release\7segmentdisplay.pdb
+D:\GitHub\7segmentdisplay\7segmentdisplay\obj\Release\_7segmentdisplay.Title.resources
+D:\GitHub\7segmentdisplay\7segmentdisplay\obj\Release\_7segmentdisplay.Properties.Resources.resources
+D:\GitHub\7segmentdisplay\7segmentdisplay\obj\Release\7segmentdisplay.csproj.GenerateResource.Cache
+D:\GitHub\7segmentdisplay\7segmentdisplay\obj\Release\7segmentdisplay.exe
+D:\GitHub\7segmentdisplay\7segmentdisplay\obj\Release\7segmentdisplay.pdb

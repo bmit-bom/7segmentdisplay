@@ -1,0 +1,30 @@
+H:\CSharp JustForFun Projects\all JFF Projects\7segmentdisplay\bin\Debug\7segmentdisplay.exe.config
+H:\CSharp JustForFun Projects\all JFF Projects\7segmentdisplay\obj\Debug\7segmentdisplay.csprojResolveAssemblyReference.cache
+H:\CSharp JustForFun Projects\all JFF Projects\7segmentdisplay\obj\Debug\_7segmentdisplay.Title.resources
+H:\CSharp JustForFun Projects\all JFF Projects\7segmentdisplay\obj\Debug\_7segmentdisplay.Properties.Resources.resources
+H:\CSharp JustForFun Projects\all JFF Projects\7segmentdisplay\obj\Debug\7segmentdisplay.csproj.GenerateResource.Cache
+H:\CSharp JustForFun Projects\all JFF Projects\7segmentdisplay\bin\Debug\7segmentdisplay.exe
+H:\CSharp JustForFun Projects\all JFF Projects\7segmentdisplay\bin\Debug\7segmentdisplay.pdb
+H:\CSharp JustForFun Projects\all JFF Projects\7segmentdisplay\obj\Debug\7segmentdisplay.exe
+H:\CSharp JustForFun Projects\all JFF Projects\7segmentdisplay\obj\Debug\7segmentdisplay.pdb
+D:\Source\Repos\SPEZ_FW29\sevenSegmentDisplay\7segmentdisplay\bin\Debug\7segmentdisplay.exe.config
+D:\Source\Repos\SPEZ_FW29\sevenSegmentDisplay\7segmentdisplay\obj\Debug\7segmentdisplay.exe
+D:\Source\Repos\SPEZ_FW29\sevenSegmentDisplay\7segmentdisplay\obj\Debug\7segmentdisplay.pdb
+D:\Source\Repos\SPEZ-FW29\7segmentdisplay\bin\Debug\7segmentdisplay.exe.config
+D:\Source\Repos\SPEZ-FW29\7segmentdisplay\obj\Debug\7segmentdisplay.exe
+D:\Source\Repos\SPEZ-FW29\7segmentdisplay\obj\Debug\7segmentdisplay.pdb
+D:\GitHub\GitHubProjects\7segmentdisplay\bin\Debug\7segmentdisplay.exe.config
+D:\GitHub\GitHubProjects\7segmentdisplay\obj\Debug\7segmentdisplay.exe
+D:\GitHub\GitHubProjects\7segmentdisplay\obj\Debug\7segmentdisplay.pdb
+D:\GitHub\sevenSegmentDisplay\7segmentdisplay\bin\Debug\7segmentdisplay.exe.config
+D:\GitHub\sevenSegmentDisplay\7segmentdisplay\obj\Debug\7segmentdisplay.exe
+D:\GitHub\sevenSegmentDisplay\7segmentdisplay\obj\Debug\7segmentdisplay.pdb
+D:\GitHub\7segmentdisplay\7segmentdisplay\bin\Debug\7segmentdisplay.exe.config
+D:\GitHub\7segmentdisplay\7segmentdisplay\obj\Debug\7segmentdisplay.exe
+D:\GitHub\7segmentdisplay\7segmentdisplay\obj\Debug\7segmentdisplay.pdb
+D:\GitHub\7segmentdisplay\7segmentdisplay\bin\Debug\7segmentdisplay.exe
+D:\GitHub\7segmentdisplay\7segmentdisplay\bin\Debug\7segmentdisplay.pdb
+D:\GitHub\7segmentdisplay\7segmentdisplay\obj\Debug\7segmentdisplay.csprojResolveAssemblyReference.cache
+D:\GitHub\7segmentdisplay\7segmentdisplay\obj\Debug\_7segmentdisplay.Title.resources
+D:\GitHub\7segmentdisplay\7segmentdisplay\obj\Debug\_7segmentdisplay.Properties.Resources.resources
+D:\GitHub\7segmentdisplay\7segmentdisplay\obj\Debug\7segmentdisplay.csproj.GenerateResource.Cache
